@@ -16,7 +16,7 @@
 
 I am a dedicated learner with a passion for tackling problems in computer science. My current focus is on advancing my skills in artificial intelligence algorithms. With a strong commitment to excellence, I strive to achieve the highest standards in all my endeavours.
 
-### 🔭 Projects
+### Projects
 
 - **GUI-Based Games:** Developed interactive games like Checkers, Solitaire, and the 2048 puzzle game using Python’s tkinter and JavaFX. Focused on speed optimization for enhanced user experience.
   
