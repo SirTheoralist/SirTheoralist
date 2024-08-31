@@ -2,7 +2,7 @@
 **SirTheoralist/SirTheoralist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Kushagra Awasthi
+<!--# Kushagra Awasthi
 
 **Location:** Bengaluru, India  
 **Email:** [kawasthi.cs22@rvce.edu.in](mailto:kawasthi.cs22@rvce.edu.in)  
@@ -36,7 +36,7 @@ I am a dedicated learner with a passion for tackling problems in computer scienc
 - Open-source projects in AI and computer vision
 - Web-based applications leveraging Flask and Next.js
 - Innovative hardware-software integrated projects
--->
+
 ---
 
 ### Education
@@ -45,3 +45,4 @@ I am a dedicated learner with a passion for tackling problems in computer scienc
 **BE in Computer Science** (Dec 2022 – May 2026)  
 
 ---
+-->
